@@ -1,1 +1,1 @@
-echo "jenkins" >> output.txt
+echo "poll trigger" >> output.txt
